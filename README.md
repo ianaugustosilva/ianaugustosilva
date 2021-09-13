@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Frontend
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning TypeScript
 
  <div>
   <a href="https://github.com/iaans">
