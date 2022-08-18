@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on Frontend
 - 🌱 I’m currently learning React and TypeScript
-- 
 
  <div>
   <a href="https://github.com/iaans">
