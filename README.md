@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Frontend
-- 🌱 I’m currently learning React and TypeScript
+- 🌱 I’m currently learning React, React Native and Typescript
 
  <div>
   <a href="https://github.com/iaans">
@@ -18,8 +18,3 @@
   <img align="center" alt="Ian-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ian-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
-    
-   
- ##
-
-      
