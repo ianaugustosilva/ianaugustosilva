@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on Frontend
-- 🌱 I’m currently learning React with Typescript
 
  <div>
   <a href="https://github.com/ianaugustosilva">
