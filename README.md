@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🔭 Currently working at [Grupo Boticário](https://www.grupoboticario)
+- 🔭 Currently working at [Grupo Boticário](https://www.grupoboticario.com.br)
 - 🌱 Always learning about Javascript, Typescript and React
 - 👯 Looking to collaborate on open-source projects
 - 😄 Pronouns: he/him
