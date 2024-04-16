@@ -4,13 +4,11 @@
 
 - 🔭 Currently working at [Grupo Boticário](https://www.grupoboticario.com.br)
 - 🌱 Always learning about Javascript, Typescript and React
-- 👯 Looking to collaborate on open-source projects
-- 😄 Pronouns: he/him
 
 ## Languages and Tools
 
 -  Javascript, Typescript
--  ReactTS, Antd, Tailwindcss
+-  React, Antd
 
 
 ## GitHub Stats
